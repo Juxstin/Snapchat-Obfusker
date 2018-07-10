@@ -1,9 +1,11 @@
 
 /**
  * ===========================================================================
- * Hook Generation | Contains: Classes, Methods/Constructors, Variables
+ * Hook Generation | Contains: Classes
  * ===========================================================================
  */
+ 
+ 
     public static final HookClass AB_TEST_MANAGER = new HookClass("AB_TEST_MANAGER", "btd");
     public static final HookClass CAMERA_FRAGMENT = new HookClass("CAMERA_FRAGMENT", "com.snapchat.android.app.feature.camera.CameraFragmentV2");
     public static final HookClass CAMERA_FRAGMENT_IMAGE = new HookClass("CAMERA_FRAGMENT_IMAGE", "uzu");//10.36
