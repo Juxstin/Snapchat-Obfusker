@@ -1,4 +1,4 @@
-Classes for 10.39.60
+Classes for 10.39.6.0
 
 public static final HookClass AB_TEST_MANAGER = new HookClass("AB_TEST_MANAGER", "bsv");
     public static final HookClass CAMERA_FRAGMENT = new HookClass("CAMERA_FRAGMENT", "com.snapchat.android.app.feature.camera.CameraFragmentV2");
